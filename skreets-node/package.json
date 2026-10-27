@@ -1,0 +1,14 @@
+{
+  "name": "skreets-of-maple-ridge",
+  "version": "1.0.0",
+  "description": "Buffalo property trading game for 2 to 6 players, playable over the network",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
